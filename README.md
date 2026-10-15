@@ -42,8 +42,10 @@ pip install -r requirements.txt
 
 The ACP-Mixed-80 dataset is used for binary anticancer peptide (ACP) identification. The training set consists of 242 ACPs and 242 non-ACPs, and the independent test set consists of 61 ACPs and 61 non-ACPs.
 
+
 -Training dataset: datasets/ACP-Mixed-80/ACP-Mixed-80-train.tsv
--independent testing dataset: datasets/ACP-Mixed-80/ACP-Mixed-80-test.tsv
+
+-Independent test dataset: datasets/ACP-Mixed-80/ACP-Mixed-80-test.tsv
 
 ### Multi-label Classification
 
