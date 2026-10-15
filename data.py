@@ -126,7 +126,7 @@ def blosum62_encoding(seq_list):
 
 def aaindex_ecoding(seqs):
     aaindex_path = (
-        "/root/autodl-tmp/DUO-ACP-main1(graphsage2+esm2)/aaindex_acp.csv"
+        "../datasets/aaindex_acp.csv"
     )
 
     aaindex_df = pd.read_csv(
